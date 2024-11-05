@@ -1,7 +1,6 @@
 ##!/usr/bin/python3
 
 from picamera2 import Picamera2
-
 from time import sleep
 import numpy as np
 import cv2
@@ -22,9 +21,7 @@ from helper_file import trim_sky
 from picamera2 import *
 tuning = Picamera2.load_tuning_file("imx219.json")
 
-
 #t1 = time.perf_counter()
-
 folder_path = "/home/pi/Pictures/"
 imgLoc="/home/pi/img2Comb/"
 currentTime = datetime.datetime.now()
