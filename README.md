@@ -11,3 +11,6 @@ If you like to use the whole or part of this code, kindly cite the above paper. 
 # Manuscript
 The manuscript can be accessed from this link. https://doi.org/10.1016/j.solener.2025.113516
 
+The manuscript can also be dowloaded free of charge from this link until 05 June 2025 https://authors.elsevier.com/a/1kxlb,tRdWCyk
+
+
