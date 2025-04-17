@@ -9,4 +9,5 @@ Here, you can learn how to create the KALiSI to take sky images at regular time 
 If you like to use the whole or part of this code, kindly cite the above paper. The code is for academic and research purposes only.
 
 # Manuscript
-The manuscript can be accessed from this link.
+The manuscript can be accessed from this link. https://doi.org/10.1016/j.solener.2025.113516
+
