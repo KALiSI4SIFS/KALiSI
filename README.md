@@ -2,7 +2,7 @@
 
 This repository contains all the codes and materials required to make the hardware in the manuscript:
 
-Ansong, M., et al., Very short-term solar irradiance forecasting based on open-source low-cost sky imager and hybrid deep-learning techniques. Phublished in Solar Energy.
+Ansong, M., et al., Very short-term solar irradiance forecasting based on open-source low-cost sky imager and hybrid deep-learning techniques. Published in Solar Energy.
 
 Here, you can learn how to create the KALiSI to take sky images at regular time intervals, which can further be used for cloud studies and solar irradiance forecasting. 
 
